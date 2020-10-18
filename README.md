@@ -1,12 +1,11 @@
+# Demo
 
-# Portfolio
-
-Welcome to my portfolio! Uploaded on github and hosted on netlify. 
+<img src="/src/art/gif.gif?raw=true" width="400px">
 
 
 # Description
 
-This project was coded in react using React-MDL components. At the time of development I was just relatively new with react so this project followed tutorials from Paul Hanna. I followed along and made changes where I saw necessary to make this project my own. For those who want to do something similar I will link the playlist under the credits section below.
+This project was coded in react using React-MDL components. At the time of development I was just relatively new with react so this project followed tutorials from Paul Hanna. I followed along and made changes where I saw necessary to make this project my own. under the credits section below.
 
 
 # Installation
