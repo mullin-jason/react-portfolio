@@ -1,7 +1,7 @@
 
 # Demo
 
-![til](./src/art/gif.gif)
+![](./src/art/gif.gif)
 
 
 # Description
