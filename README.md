@@ -1,7 +1,7 @@
 
 # Demo
 
-<img src="./src/art/gif.gif?raw=true" width="400px">
+<img src="/src/art/gif.gif?raw=true" width="1400px">
 
 
 # Description
