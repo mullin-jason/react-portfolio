@@ -1,7 +1,7 @@
 
 # Demo
 
-<img src="/src/art/gif.gif?raw=true" width="1400px">
+![til](./src/art/gif.gif)
 
 
 # Description
