@@ -6,7 +6,7 @@
 
 # Description
 
-This project was coded in react using React-MDL components. At the time of development I was just relatively new with react so this project followed tutorials from Paul Hanna. I followed along and made changes where I saw necessary to make this project my own. under the credits section below.
+This project was coded in react using React-MDL components. At the time of development I was just relatively new with react so this project followed tutorials from Paul Hanna. I followed along and made changes where I saw necessary to make this project my own. 
 
 
 # Installation
